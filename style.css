@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@400;600&display=swap');
+
+
+*{
+    padding: 0%;
+    margin: 0%; 
+    justify-content: space-around;
+ 
+}
+
+.bar {
+    display: flex;
+    justify-content:center;
+    height: 150px;
+    align-items: center;
+    background-color: yellow;
+    font-style: italic;
+    
+    } 
+
+    body{
+        font-family: 'Asap', sans-serif;
+    }
+
+#best {
+    
+    height: px;  
+    
+}
+
+#king{
+   width: 1000px;
+}
+  
+    
+
+
+    #car{
+               
+        display: flex ;
+        flex-direction: row;
+        justify-content: space-between ;
+         margin-top: 25px ;
+          margin-bottom: 25px ;
+          margin-left: 25px ;
+          margin-right: 25px ;      
+    }
+ 
+    #ok{
+        margin-top: 25px ;
+        margin-bottom: 25px ;
+        margin-left: 5px ;
+        margin-right: 25px ;
+    }
+
+    #no{
+        margin-top: 25px ;
+        margin-bottom: 25px ;
+        margin-left: 25px ;
+        margin-right: 25px ;
+    }
+
+
+    #hi{
+        margin-top: 25px ;
+        margin-bottom: 25px ;
+        margin-left: 25px ;
+        margin-right: 25px ;
+    }
+
+
+    #hello{
+        margin-top: 25px ;
+        margin-bottom: 25px ;
+        margin-left: 25px ;
+        margin-right: 25px ;
+    }
+
+    #fast{
+        margin-top: 25px ;
+        margin-bottom: 25px ;
+        margin-left: 25px ;
+        margin-right: 25px ;
+    }
+
+    #div{
+        display: flex;
+        flex-direction: column;
+    height: 505px;
+    align-items: center;
+    background-color: lightyellow ;
+    font-size: 30px ;
+    text-align: center; 
+    font-size: 3em;
+    }
+
+    #div2{
+        display: flex;
+        flex-direction: row flex-end;
+        
+        height: 505px;
+        align-items: center;
+        background-color: lightyellow ;
+        font-size: 30px ;
+        text-align: center; 
+        font-size: 3em;
+    }
+
+    #div3{
+        display: flex;
+        flex-direction: column;
+        justify-content:space-around , flex-start;
+        height: 600px;
+        align-items: center;
+        background-color: lightyellow ;
+        font-size: 30px ;
+        text-align: center; 
+        font-size: 3em;
+    }
+
+
+     #yup1 {
+       background-color: black;    
+     } 
+
+     #yup2 {
+        background-color: black;    
+      }
+
+      #yup3 {
+        background-color: black;    
+      }
+
+      #yup4 {
+        background-color: black;    
+      }
+
+      #yup5 {
+        background-color: black;    
+      }
+
+      .clash{
+          margin: 2px ;
+      }
+
+     
+
+
+
+
